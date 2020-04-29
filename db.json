@@ -1,0 +1,13 @@
+{
+    "countries": [
+        { "country_code": "af", "country_name": "Afghanistan" },
+        { "country_code": "bn", "country_name": "Brunei" },
+        { "country_code": "my", "country_name": "Malaysia" },
+        { "country_code": "hk", "country_name": "Hong Kong" },
+        { "country_code": "kr", "country_name": "South Korea" },
+        { "country_code": "sg", "country_name": "Singapore" },
+        { "country_code": "cn", "country_name": "China" },
+        { "country_code": "tw", "country_name": "Taiwan" },
+        { "country_code": "vn", "country_name": "Vietnams" }
+    ]
+}
